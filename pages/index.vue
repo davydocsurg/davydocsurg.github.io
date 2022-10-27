@@ -1,21 +1,23 @@
 <template>
-  <div class="container">
-    <Hero />
-    <hr class="bg-success" />
-    <About />
-    <hr class="bg-success" />
-    <Proficiency />
-    <hr class="bg-success" />
-    <Skills />
-    <hr class="bg-success" />
-    <Experience />
-    <hr class="bg-success" />
-    <Projects />
-    <hr class="bg-success" />
-    <Socials />
-    <hr class="bg-success" />
-    <FooterD />
-  </div>
+  <NuxtLayout>
+    <div class="container">
+      <Hero />
+      <hr class="bg-success" />
+      <About />
+      <hr class="bg-success" />
+      <Proficiency />
+      <hr class="bg-success" />
+      <Skills />
+      <hr class="bg-success" />
+      <Experience />
+      <hr class="bg-success" />
+      <Projects />
+      <hr class="bg-success" />
+      <Socials />
+      <hr class="bg-success" />
+      <FooterD />
+    </div>
+  </NuxtLayout>
 </template>
 
 <script lang="ts">
