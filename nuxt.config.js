@@ -9,7 +9,7 @@ export default {
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: "davydocsurg",
+    title: "David Chibueze Ndubuisi - Software Engineer",
     htmlAttrs: {
       lang: "en",
     },
@@ -19,19 +19,13 @@ export default {
       { hid: "description", name: "description", content: "" },
       { name: "format-detection", content: "telephone=no" },
     ],
-    link: [
-      { rel: "icon", type: "image/x-icon", href: "/favicon.ico" },
-      {
-        rel: "stylesheet",
-        href: "~/assets/fontawesome-free/css/all.css",
-      },
-    ],
+    link: [{ rel: "icon", type: "image/x-icon", href: "/favicon.ico" }],
   },
 
   // Global CSS: https://go.nuxtjs.dev/config-css
   css: [
-    "/assets/css/main.css",
-    "/assets/fontawesome-free/css/all.css",
+    "@/assets/css/main.css",
+    "@/assets/fontawesome-free/css/all.css",
     "bootstrap/dist/css/bootstrap.css",
   ],
 
