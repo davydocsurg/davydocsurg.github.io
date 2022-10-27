@@ -30,8 +30,8 @@ export default {
 
   // Global CSS: https://go.nuxtjs.dev/config-css
   css: [
-    "@/assets/css/main.css",
-    "@/assets/fontawesome-free/css/all.css",
+    "/assets/css/main.css",
+    "/assets/fontawesome-free/css/all.css",
     "bootstrap/dist/css/bootstrap.css",
   ],
 
