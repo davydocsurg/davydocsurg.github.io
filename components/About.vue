@@ -34,7 +34,7 @@
 
           Having a strong belief in being
           <span class="text-success">100 percent</span> efficient, I put up my
-          best effort toward all of my objectives.
+          best effort toward all of my goals.
 
           <!-- I am a firm believer in being 100 percent efficient, so I give everything I have to each of the objectives I set.  -->
         </p>
