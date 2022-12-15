@@ -21,7 +21,7 @@ export default {
         hid: "description",
         name: "description",
         content:
-          "Full-stack developer with strong troubleshooting skills and proven experience in creating and designing software in a test-driven environment. Thrives and adapts to challenges in startup environments. An excellent communicator with the ability to stick to deadlines and quickly resolve issues.",
+          "Software Engineer with strong troubleshooting skills and proven experience in creating and designing software in a test-driven environment. Thrives and adapts to challenges in startup environments. An excellent communicator with the ability to stick to deadlines and quickly resolve issues.",
       },
       { name: "format-detection", content: "telephone=no" },
     ],
