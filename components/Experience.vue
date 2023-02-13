@@ -20,7 +20,7 @@
             <h5 href="" class="text-success">Coopco</h5>
             <small class="text-success">Frontend Engineer</small>
             <br />
-            <small class="text-muted">Lagos, Nigeria.</small>
+            <small class="text-muted">Lagos, Nigeria - Remote</small>
             <br />
             <br />
           </div>
@@ -28,26 +28,83 @@
           <div class="col-lg-8">
             <ul class="list-style-type-none lh-lg">
               <li>
-                Worked in an agile environment with weekly standups, kept track
-                of projects, and participated in 2 hours of Sprint Planning per
-                week.
-              </li>
-              <li>Support planning and testing features.</li>
-
-              <li>
-                Excellent knowledge of security on the client side (CSRF, JWT,
-                CORS).
+                Developed and maintained Coopco Technology's web applications
+                and websites using HTML, CSS, JavaScript, VueJS, and ReactJS
               </li>
 
-              <li>Implemented new features and improved existing ones.</li>
-
-              <li>Optimization of existing features through profiling.</li>
-
-              <li>Development of excellent PWAs.</li>
+              <li>
+                Proactively participated in the development process of multiple
+                web applications
+              </li>
 
               <li>
-                Acknowledged by my superiors as a diligent professional who
-                completes all assigned tasks within the stipulated timeframe.
+                Collaborated with the design team to ensure a seamless user
+                experience across all devices and screen sizes
+              </li>
+
+              <li>
+                Built reusable components and front-end libraries, reducing
+                development time by 20%
+              </li>
+
+              <li>
+                Optimized applications for speed and scalability, utilizing
+                techniques such as lazy loading, code splitting, and image
+                optimization, which reduced web page load time by 30%
+              </li>
+            </ul>
+          </div>
+        </div>
+      </li>
+      <br />
+      <br />
+      <li>
+        <div class="container row">
+          <div class="col-lg-4">
+            <small class="">August 2022 - December 2022</small>
+            <h5 href="" class="text-success">Nubela</h5>
+            <small class="text-success">Freelance Technical Writer</small>
+            <br />
+            <small class="text-muted">Singapore - Remote</small>
+            <br />
+            <br />
+          </div>
+          <div class="col-lg-8">
+            <!-- I worked as a freelance technical writer for Nubela which
+            specializes in data enterprise and software development. During my
+            time there, I was responsible for creating and editing technical
+            blog posts and articles that were used to educate and inform the
+            company's clients and potential clients about the services they
+            offered.
+            <br />
+            My responsibilities included: -->
+
+            <ul class="lh-lg">
+              <li>
+                Created and edited technical blog posts and articles for Nubela,
+                specializing in data enterprise and software development.
+              </li>
+
+              <li>
+                Conducted research and wrote technical articles and blog posts
+                on various software development topics, such as web development,
+                database design, and software testing.
+              </li>
+
+              <li>
+                Utilized SEO best practices to increase website traffic and
+                engagement.
+              </li>
+
+              <li>
+                Collaborated with subject matter experts, developers, and
+                stakeholders to ensure the accuracy and completeness of the
+                content.
+              </li>
+
+              <li>
+                Created clear and concise content for non-technical readers,
+                while providing technical details for more advanced users.
               </li>
             </ul>
           </div>
@@ -57,7 +114,7 @@
       <li>
         <div class="container row">
           <div class="col-lg-4">
-            <small class="">April 2020 - Present</small>
+            <small class="">April 2020 - May 2022</small>
             <h5 href="" class="text-success">Freelance Software Developer</h5>
             <small class="text-muted">Remote - Freelancer</small>
             <br />
@@ -67,51 +124,50 @@
             Working with teams of skillful and experienced developers, I:
             <ul class="lh-lg">
               <li>
-                develop back-end and database infrastructures with more than 90%
-                security.
+                Developed back-end and database infrastructures with over 90%
+                security in collaboration with skillful and experienced
+                development teams.
               </li>
 
               <li>
-                devise front-end components based on both new and existing
-                methods which have received a scalability rating of more than 4
-                stars from users.
+                Designed and implemented front-end components based on new and
+                existing methods with a scalability rating of over 4 stars from
+                users
               </li>
 
               <li>
-                assemble data on integration issues and vulnerabilities and
-                report all findings, including suggestions for improvement.
+                Assembled data on integration issues and vulnerabilities,
+                reported findings and provided suggestions for improvement
               </li>
 
               <li>
-                test troubleshooting methods, devise innovative solutions with a
-                success rate of more than 88%, and document resolutions for
-                inclusion in a knowledge repository for our team support.
+                Tested troubleshooting methods, devised innovative solutions
+                with a success rate of over 88%, and documented resolutions for
+                inclusion in a knowledge repository for team support
               </li>
 
               <li>
-                conduct research, design, and implementation of scalable
+                Conducted research, designed, and implemented scalable
                 information identification, extraction, analysis, retrieval, and
-                indexing applications.
+                indexing applications
               </li>
 
               <li>
-                implement web applications by placing the structure of the
-                application onto the Laravel framework. This simplifies
-                maintenance and the development of new features by a factor of
-                100.
+                Simplified the implementation of web applications by placing the
+                application's structure onto the Laravel framework, reducing
+                maintenance and new feature development time by a factor of 100
               </li>
 
               <li>
-                executed core server product development in Laravel MVC and SOA
-                service components for more than 25 client sites to ensure 99%
-                compatibility with major browsers on both mobile and desktop
-                platforms.
+                Developed core server products in Laravel MVC and SOA service
+                components for over 25 client sites, ensuring 99% compatibility
+                with major browsers on both mobile and desktop platforms
               </li>
 
               <li>
-                increased customer satisfaction to 85% by creating databases
-                utilizing PHP8, PDO, and MySQL that optimized trucking
-                performances from creating, assigning, and tracking truckloads.
+                Created databases utilizing PHP8, PDO, and MySQL that optimized
+                trucking performances, from creating, assigning, and tracking
+                truckloads, increasing customer satisfaction to 85%.
               </li>
             </ul>
           </div>
@@ -133,32 +189,32 @@
           <div class="col-lg-8">
             <ul class="list-style-type-none lh-lg">
               <li>
-                Proactively participated in the development process of multiple
-                web applications
+                Participated proactively in the development process of multiple
+                web applications during an internship at Innovation Growth Hub,
+                Nigeria
               </li>
               <li>
-                Resolved complex issues, and performed professional UI tests to
+                Resolved complex issues and conducted professional UI tests to
                 optimize performance
               </li>
 
               <li>
-                Accumulated information on research web development to
-                contribute to projects
+                Conducted research on web development to contribute to projects
               </li>
 
               <li>
                 Supported several instructors with the planning and organization
-                of the IGHUB Developers and Entrepreneurs Fellowship.
+                of the IGHUB Developers and Entrepreneurs Fellowship
               </li>
 
               <li>
-                Led group projects by ensuring 98% cooperation and effective
-                teamwork.
+                Led group projects, ensuring 98% cooperation and effective
+                teamwork
               </li>
 
               <li>
                 Tutored small groups of students focused on specific parts of
-                our fellowship.
+                the fellowship.
               </li>
             </ul>
           </div>
