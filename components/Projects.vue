@@ -382,7 +382,10 @@
           </div>
           <div class="card-body">
             <h5 class="card-title">Kreeper</h5>
-            <p class="card-text">Kreeper is a realtime chat application</p>
+            <p class="card-text">
+              Kreeper is a real-time chat application that enables users to
+              communicate with each other in an individual setting.
+            </p>
 
             <p class="card-text">
               <span class="badge badge-light badge-pill">

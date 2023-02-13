@@ -78,14 +78,14 @@ p {
 }
 
 @media screen and (max-width: 992px) {
-  .jst-prof {
+  /* .jst-prof {
     text-align: center !important;
-  }
+  } */
 
   .text-bold {
     font-weight: 400;
     font-size: 2.5rem !important;
-    text-align: center !important;
+    /* text-align: center !important; */
   }
 }
 

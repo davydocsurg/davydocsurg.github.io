@@ -64,9 +64,9 @@ p {
 }
 
 @media screen and (max-width: 992px) {
-  .jst-abt {
+  /* .jst-abt {
     text-align: center !important;
-  }
+  } */
 
   .text-bold {
     font-weight: 300;

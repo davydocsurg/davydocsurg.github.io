@@ -74,13 +74,13 @@ ul li {
 /* about */
 #about {
   min-height: 25rem;
-  max-height: 100rem;
+  max-height: 1000rem;
 }
 
 /* proficiency */
 #proficiency {
   min-height: 25rem;
-  max-height: 100rem;
+  max-height: 1000rem;
 }
 
 /* skills */
@@ -244,4 +244,4 @@ ul li {
     margin-top: 20vh;
   } */
 /*  */
-/*# sourceMappingURL=main.css.map *//*# sourceMappingURL=main.css.map */
+/*# sourceMappingURL=main.css.map */
