@@ -50,28 +50,31 @@
         >
           <div class="card-img-top mx-auto">
             <a
-              href="https://tribrozglobal.com/"
+              href="https://linkfree.eddiehub.io/"
               target="_blank"
               rel="noopener noreferrer"
             >
               <img
                 class="img-fluid"
-                src="../assets/img/project7x.png"
-                alt="CMS"
+                src="../assets/img/linkfree.webp"
+                alt="LinkFree"
               />
             </a>
           </div>
           <div class="card-body">
-            <h5 class="card-title">TRIBROZ</h5>
+            <h5 class="card-title">LINKFREE</h5>
             <p class="card-text">
-              TRIBROZ is a a team of highly qualified Engineers and Allied
-              Professional from front desk to Field.
+              LinkFree is the Open Source alternative to LinkTree. A platform
+              where people in tech can have a single hub to showcase their
+              content in order to accelerate their career, whilst contributing
+              to an Open Source project and being part of a community that has a
+              say in where the project is going.
             </p>
 
-            <div class="card-text">
+            <!-- <div class="card-text">
               <small class="text-muted">
                 <a
-                  href="https://tribrozglobal.com/"
+                  href="https://linkfree.eddiehub.io/"
                   target="_blank"
                   rel="noopener noreferrer"
                   class="btn-dark bg-success text-decoration-none text-center"
@@ -79,11 +82,36 @@
                 >
                   Visit Site <i class="fas fa-external-link-alt"></i> </a
               ></small>
+            </div> -->
+
+            <div class="card-text row mx-auto">
+              <small class="text-muted float-lg-left text-center">
+                <a
+                  href="https://github.com/EddieHubCommunity/LinkFree"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  class="btn-dark bg-dark-pro text-decoration-none"
+                  v-scrollAnime
+                >
+                  <i class="fab fa-github"> Repository</i>
+                </a></small
+              >
+
+              <small class="text-muted float-right">
+                <a
+                  href="https://linkfree.eddiehub.io"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  class="btn-dark bg-success text-decoration-none"
+                  v-scrollAnime
+                >
+                  View Site <i class="fas fa-external-link-alt"></i> </a
+              ></small>
             </div>
           </div>
         </div>
 
-        <div
+        <!-- <div
           class="card col-lg-6 col-md-6 col-sm-12 mt-4 bg-dark-pro mx-auto"
           v-scrollAnime
         >
@@ -148,9 +176,9 @@
               </small>
             </div>
           </div>
-        </div>
+        </div> -->
 
-        <div
+        <!-- <div
           class="card col-lg-6 col-md-6 col-sm-12 mt-4 bg-dark-pro mx-auto"
           v-scrollAnime
         >
@@ -213,7 +241,7 @@
               ></small>
             </div>
           </div>
-        </div>
+        </div> -->
 
         <div
           class="card col-lg-6 col-md-6 col-sm-12 mt-4 bg-dark-pro mx-auto"
@@ -262,7 +290,7 @@
 
               <small class="text-muted float-right">
                 <a
-                  href="https://davydocsurg.github.io/"
+                  href="https://chibueze.me/"
                   target="_blank"
                   rel="noopener noreferrer"
                   class="btn-dark bg-success text-decoration-none"
