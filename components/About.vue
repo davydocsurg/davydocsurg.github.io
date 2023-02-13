@@ -11,32 +11,37 @@
       <br />
       <div class="col-lg-8 col-md-12 col-sm-12 col-xs-12">
         <p class="lh-lg" v-scrollAnime>
-          I'm a <span class="text-success">Full Stack Developer</span>,
+          <!-- I'm a <span class="text-success">Full Stack Developer</span>,
           <span class="text-success">Blockchain Enthusiast</span> and
           <span class="text-success"> Enthusiastic Entrepreneur</span>
-          <!-- with years of experience in the Tech industry. -->
           with strong troubleshooting skills and proven experience in creating
           and designing software in a
-          <span class="text-success"> test-driven environment</span>.
+          <span class="text-success"> test-driven environment</span>. -->
+          As a software engineer with several years of experience, I have
+          developed a passion for creating efficient, scalable, and secure
+          software solutions. My expertise lies in designing and developing
+          <span class="text-success">full-stack web applications</span>,
+          utilizing a variety of programming languages and frameworks. I am
+          well-versed in various software development methodologies and I'm
+          always seeking new ways to improve my skills and stay up-to-date with
+          the latest industry trends. I am a strong
+          <span class="text-success">collaborator</span> and
+          <span class="text-success">communicator</span>, able to work
+          effectively in both independent and team settings.
+          <br />
+          <br />
+          With a focus on creating
+          <code class="text-success"> high-quality code</code> and delivering
+          exceptional user experiences, I am committed to helping organizations
+          achieve their business objectives through innovative and efficient
+          software solutions
+          <br />
           <br />
           I'm passionate about <span class="text-success">Startups</span> and
-          gained most of my knowledge through self-tutoring.
-          <!-- <span class="text-success"> Full-stack developer</span> with strong
-          troubleshooting skills and proven experience in creating and designing
-          software in a
-          <span class="text-success"> test-driven environment</span>. Thrives
-          and adapts to challenges in startup environments. An excellent
-          communicator with the ability to stick to deadlines and quickly
-          resolve issues.
-          <br /> -->
-          <!-- Having a strong belief in being 100% efficient, I devote my best to
-          every laid down goals. -->
-
-          Having a strong belief in being
-          <span class="text-success">100 percent</span> efficient, I devote my
-          best to every laid down goals.
-
-          <!-- I am a firm believer in being 100 percent efficient, so I give everything I have to each of the objectives I set.  -->
+          gained most of my knowledge through self-tutoring. Having a strong
+          belief in being
+          <!-- <span class="text-success">100 percent</span> efficient, I devote my -->
+          <!-- best to every laid down goals. -->
         </p>
       </div>
     </div>

@@ -13,36 +13,43 @@
         <div class="" v-scrollAnime>
           <h5 class="text-success prof_head">Front-end Design</h5>
           <p class="lh-lg">
-            <!-- I design responsive and stunning web pages/SPAs using various UI frameworks and libraries -->
-            Using various UI frameworks and libraries, such as
-            <i class="text-success">Bootstrap</i>,
-            <i class="text-success">Tailwind CSS</i>,
-            <i class="text-success">VueJS/NuxtJS/VuetifyJS</i>,
-            <i class="text-success"> ViteJS</i>,
-            <i class="text-success"> ReactJS</i> and
-            <i class="text-success"> MaterialUI</i>, I create responsive and
-            attractive web pages/SPAs.
+            I have extensive experience in developing web pages and single-page
+            applications using a wide range of UI frameworks and libraries.
+            These include popular options such as
+            <code class="text-success">
+              Bootstrap, Tailwind CSS, ReactJS, NextJS, VueJS, NuxtJS,
+              VuetifyJS, ViteJS, and MaterialUI</code
+            >. Leveraging my expertise in these tools, I am able to create
+            highly responsive and visually appealing user interfaces that
+            enhance the user experience and drive engagement.
           </p>
         </div>
         <div class="mt-5" v-scrollAnime>
           <h5 class="text-success prof_head">Back-end Development</h5>
           <p class="lh-lg">
-            I develop highly extensible web applications with fast, solid, and
-            secure APIs. My stack include <i class="text-success">PHP</i>,
-            <i class="text-success">JavaScript</i>,
-            <i class="text-success">TypeScipt</i>,
-            <i class="text-success">Laravel</i>, and
-            <i class="text-success">Nodejs</i>.
+            I specialize in building robust and scalable web applications that
+            feature fast, secure, and highly extensible APIs. My toolset
+            includes a range of technologies, such as
+            <code class="text-success">
+              PHP, JavaScript, TypeScript, Laravel, and Node.js</code
+            >. With a keen eye for detail and a passion for coding, I bring a
+            wealth of experience and expertise to each project, ensuring that my
+            solutions meet the highest standards of quality and performance.
+            Whether working independently or as part of a team, I am dedicated
+            to delivering innovative, cutting-edge applications that drive
+            real-world impact and value.
           </p>
         </div>
         <div class="mt-5" v-scrollAnime>
           <h5 class="text-success prof_head">Database Development</h5>
           <!-- I design uniformed relational data models aptly accomplished with -->
           <p class="lh-lg font-monospace">
-            I design consistent relational data structures that are
-            well-executed with
-            <i class="text-success">MySQL</i>/<i class="text-success">SQL</i>
-            and <i class="text-success">MongoDB</i>.
+            I possess the ability to design consistent and efficient relational
+            data structures that are compatible with both
+            <code class="text-success">MySQL/SQL and MongoDB</code> . My
+            expertise in data modeling and database design ensures the accuracy,
+            performance, and scalability of these structures, allowing for
+            seamless data retrieval and storage.
           </p>
         </div>
       </div>
