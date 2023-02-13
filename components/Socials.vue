@@ -274,6 +274,14 @@ a:hover {
   }
 }
 
+@media screen and (max-width: 780px) {
+  .boxes div {
+    font-size: 1.3rem;
+    padding: 1rem 1.3rem;
+    margin-bottom: 1rem;
+  }
+}
+
 /* animes */
 .before-enter {
   opacity: 0;
