@@ -251,6 +251,13 @@
   }
 }
 
+@media screen and (max-width: 780px) {
+  .lh-lg {
+    font-size: 0.8rem !important;
+    line-height: 1rem !important;
+  }
+}
+
 /* animes */
 .before-enter {
   opacity: 0;
