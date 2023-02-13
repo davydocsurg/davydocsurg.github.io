@@ -38,10 +38,7 @@
           <br />
           <br />
           I'm passionate about <span class="text-success">Startups</span> and
-          gained most of my knowledge through self-tutoring. Having a strong
-          belief in being
-          <!-- <span class="text-success">100 percent</span> efficient, I devote my -->
-          <!-- best to every laid down goals. -->
+          gained most of my knowledge through self-tutoring.
         </p>
       </div>
     </div>
