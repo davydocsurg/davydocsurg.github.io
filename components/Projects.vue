@@ -71,19 +71,6 @@
               say in where the project is going.
             </p>
 
-            <!-- <div class="card-text">
-              <small class="text-muted">
-                <a
-                  href="https://linkfree.eddiehub.io/"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  class="btn-dark bg-success text-decoration-none text-center"
-                  v-scrollAnime
-                >
-                  Visit Site <i class="fas fa-external-link-alt"></i> </a
-              ></small>
-            </div> -->
-
             <div class="card-text row mx-auto">
               <small class="text-muted float-lg-left text-center">
                 <a
@@ -111,138 +98,6 @@
           </div>
         </div>
 
-        <!-- <div
-          class="card col-lg-6 col-md-6 col-sm-12 mt-4 bg-dark-pro mx-auto"
-          v-scrollAnime
-        >
-          <div class="card-img-top">
-            <a
-              href="https://github.com/davydocsurg/socialite"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              <img
-                class="img-fluid"
-                src="../assets/img/project0.png"
-                alt="Socialite"
-              />
-            </a>
-          </div>
-          <div class="card-body">
-            <h5 class="card-title">Socialite</h5>
-            <p class="card-text">Socialite is a twitter clone.</p>
-            <p class="card-text">
-              Front-End:
-              <span class="badge badge-light badge-pill">
-                <i class="fab fa-react text-info"></i> ReactJS</span
-              >,
-              <span class="badge badge-light badge-pill">
-                <i class="fab fa-redux text-info"></i> Redux</span
-              >,
-              <span class="badge badge-light badge-pill">
-                <i class="fab fa-react text-info"></i> React-Redux</span
-              >,
-              <span class="badge badge-dark badge-pill">
-                <i class="fab fa-bootstrap text-indigo"></i>
-                <b class="text-white"> Bootstrap</b> </span
-              >,
-              <span class="badge badge-light badge-pill">
-                <i class="fab fa-mdb text-primary"></i>
-                <b class="text-dark"> MaterialUI</b>
-              </span>
-            </p>
-
-            <p class="card-text">
-              Back-End:
-              <span class="badge badge-light badge-pill">
-                <i class="fab fa-laravel text-danger"></i> Laravel </span
-              >,
-              <span class="badge badge-warning badge-pill">
-                <b class="text">MySQL</b>
-              </span>
-            </p>
-
-            <div class="card-text row">
-              <small class="text-muted float-lg-left text-center">
-                <a
-                  href="https://github.com/davydocsurg/socialite"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  class="btn-dark bg-dark-pro text-decoration-none"
-                  v-scrollAnime
-                >
-                  <i class="fab fa-github"> Repository</i>
-                </a>
-              </small>
-            </div>
-          </div>
-        </div> -->
-
-        <!-- <div
-          class="card col-lg-6 col-md-6 col-sm-12 mt-4 bg-dark-pro mx-auto"
-          v-scrollAnime
-        >
-          <div class="card-img-top">
-            <a
-              href="http://frozen-temple-94354.herokuapp.com/"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              <img
-                class="img-fluid"
-                src="../assets/img/project2.png"
-                alt="CMS"
-              />
-            </a>
-          </div>
-          <div class="card-body">
-            <h5 class="card-title">CMS <sup>-</sup></h5>
-            <p class="card-text">
-              CMS <sup>-</sup> is a blog site with a Content Management System
-            </p>
-            <p class="card-text">
-              <span class="badge badge-light badge-pill">
-                <i class="fab fa-bootstrap text-indigo"></i> Bootstrap</span
-              >,
-              <span class="badge badge-dark badge-pill">
-                <i class="fab fa-js-square text-warning"></i>
-                <b class="text-white"> JavaScript</b> </span
-              >,
-              <span class="badge badge-light badge-pill">
-                <i class="fab fa-laravel text-danger"></i> Laravel </span
-              >,
-              <span class="badge badge-warning badge-pill">
-                <b class="text">MySQL</b>
-              </span>
-            </p>
-
-            <div class="card-text row mx-auto">
-              <small class="text-muted float-lg-left text-center">
-                <a
-                  href="https://github.com/davydocsurg/CMS"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  class="btn-dark bg-dark-pro text-decoration-none"
-                  v-scrollAnime
-                >
-                  <i class="fab fa-github"> Repository</i>
-                </a></small
-              >
-
-              <small class="text-muted float-right">
-                <a
-                  href="http://frozen-temple-94354.herokuapp.com/"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  class="btn-dark bg-success text-decoration-none"
-                  v-scrollAnime
-                >
-                  View Demo <i class="fas fa-external-link-alt"></i> </a
-              ></small>
-            </div>
-          </div>
-        </div> -->
-
         <div
           class="card col-lg-6 col-md-6 col-sm-12 mt-4 bg-dark-pro mx-auto"
           v-scrollAnime
@@ -269,8 +124,8 @@
 
             <p class="card-text">
               <span class="badge badge-light badge-pill">
-                <i class="fab fa-vuejs text-success"></i>ueJS </span
-              >,
+                <i class="fab fa-vuejs text-success"></i>ueJS
+              </span>
               <span class="badge badge-light badge-pill">
                 <i class="fab fa-bootstrap text-indigo"></i> Bootstrap
               </span>
@@ -314,25 +169,32 @@
             >
               <img
                 class="img-fluid"
-                src="../assets/img/project5.png"
+                src="../assets/img/PostCare Desktop.png"
                 alt="Ticketlite"
               />
             </a>
           </div>
           <div class="card-body">
-            <h5 class="card-title">Ticketlite</h5>
+            <h5 class="card-title">PostCare</h5>
             <p class="card-text">
-              Ticketlite is a ticket management system where users can create
-              and manage their tickets.
+              PostCare is a secure and reliable web application that aims to
+              create a single location where surgery patients can easily access
+              their post-operative instructions, review and understand the
+              stages of healing, develop exercise and diet routines, and explore
+              doctor-approved additional therapies along the appropriate healing
+              timeline.
             </p>
 
             <p class="card-text">
               <span class="badge badge-light badge-pill">
-                <i class="fab fa-bootstrap text-indigo"></i> Bootstrap</span
-              >,
+                <i class="fab fa-js text-warning"></i> JavaScript</span
+              >
               <span class="badge badge-light badge-pill">
-                <i class="fab fa-laravel text-danger"></i> Laravel </span
-              >,
+                <i class="fab fa-react text-primary"></i> Reactjs</span
+              >
+              <span class="badge badge-light badge-pill">
+                <i class="fab fa-laravel text-danger"></i> Laravel
+              </span>
               <span class="badge badge-warning badge-pill">
                 <b class="text">MySQL</b>
               </span>
@@ -340,7 +202,7 @@
             <div class="card-text row">
               <small class="text-muted float-left">
                 <a
-                  href="https://github.com/davydocsurg/Support-Ticket-System-with-Laravel-6-"
+                  href="https://github.com/PostOP-app"
                   target="_blank"
                   rel="noopener noreferrer"
                   class="btn-dark bg-dark-pro text-decoration-none"
@@ -350,80 +212,33 @@
                 </a></small
               >
 
+              <small class="text-muted float-left">
+                <a
+                  href="https://www.joincolab.io/projects/postcare"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  class="btn-dark bg-dark-pro text-decoration-none"
+                  v-scrollAnime
+                >
+                  Product Portfolio <i class="fas fa-external-link-alt"></i> </a
+              ></small>
+
               <small class="text-muted float-right">
                 <a
-                  href="http://ticketliteapp.herokuapp.com/"
+                  href="https://postcare.pages.dev/"
                   target="_blank"
                   rel="noopener noreferrer"
                   class="btn-dark bg-success text-decoration-none"
                   v-scrollAnime
                 >
-                  Visit Demo <i class="fas fa-external-link-alt"></i> </a
+                  Visit Site <i class="fas fa-external-link-alt"></i> </a
               ></small>
-            </div>
-          </div>
-        </div>
-        <div
-          class="card col-lg-6 mx-auto col-md-6 col-sm-12 mt-4 bg-dark-pro"
-          v-scrollAnime
-        >
-          <div class="card-img-top">
-            <a
-              href="https://github.com/davydocsurg/kreeper"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              <img
-                class="img-fluid"
-                src="../assets/img/project6.png"
-                alt="Ticketlite"
-              />
-            </a>
-          </div>
-          <div class="card-body">
-            <h5 class="card-title">Kreeper</h5>
-            <p class="card-text">
-              Kreeper is a real-time chat application that enables users to
-              communicate with each other in an individual setting.
-            </p>
-
-            <p class="card-text">
-              <span class="badge badge-light badge-pill">
-                <i class="fab fa-bootstrap text-indigo"></i> Bootstrap</span
-              >,
-              <span class="badge badge-light badge-pill">
-                <i class="fab fa-vuejs text-success"></i>ueJS </span
-              >,
-              <span class="badge badge-light badge-pill">
-                <i class="fab fa-laravel text-danger"></i> Laravel </span
-              >,
-              <span class="badge badge-warning badge-pill">
-                <b class="text">MySQL</b> </span
-              >,
-              <span class="badge badge-light badge-pill">
-                <b class="text">Pusher</b>
-              </span>
-            </p>
-            <div class="card-text row">
-              <small class="text-muted float-left">
-                <a
-                  href="https://github.com/davydocsurg/kreeper"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  class="btn-dark bg-dark-pro text-decoration-none"
-                  v-scrollAnime
-                >
-                  <i class="fab fa-github"> Repository</i>
-                </a></small
-              >
             </div>
           </div>
         </div>
       </div>
     </div>
   </div>
-  <!-- </main> -->
-  <!-- </div> -->
 </template>
 
 <script>
