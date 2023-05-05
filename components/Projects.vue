@@ -24,22 +24,22 @@
           <div class="card-body">
             <h5 class="card-title">Nkọwa okwu</h5>
             <p class="card-text">
-              <b class="text-success">Nkọwa okwu</b> is a technology company
-              focused on building accessible and robust Igbo language learning
-              tools. It was built on the foundation that we believe Igbo
-              education should be free and easy to access.
+              Nkọwa okwu is a technology company focused on building accessible
+              and robust Igbo language learning tools. It was built on the
+              foundation that we believe Igbo education should be free and easy
+              to access.
             </p>
 
             <p class="card-text">
               <span class="badge badge-danger badge-pill"> Nodejs </span>
-              <span class="badge badge-light badge-pill"> Nextjs </span>
-              <span class="badge badge-light badge-pill"> AWS </span>
-              <span class="badge badge-light badge-pill"> Docker </span>
+              <span class="badge badge-dark badge-pill"> Nextjs </span>
+              <span class="badge badge-danger badge-pill"> AWS </span>
+              <span class="badge badge-info badge-pill"> Docker </span>
             </p>
             <div class="card-text row">
               <small class="text-muted float-left">
                 <a
-                  href="https://github.com/davydocsurg/davydocsurg.github.io"
+                  href="https://github.com/nkowaokwu"
                   target="_blank"
                   rel="noopener noreferrer"
                   class="btn-dark bg-dark-pro text-decoration-none"
@@ -51,13 +51,73 @@
 
               <small class="text-muted float-right">
                 <a
-                  href="https://chibueze.me/"
+                  href="https://nkowaokwu.com/"
                   target="_blank"
                   rel="noopener noreferrer"
                   class="btn-dark bg-success text-decoration-none"
                   v-scrollAnime
                 >
                   Visit Site <i class="fas fa-external-link-alt"></i> </a
+              ></small>
+            </div>
+          </div>
+        </div>
+
+        <div
+          class="card col-lg-6 col-md-6 col-sm-12 mt-4 bg-dark-pro mx-auto"
+          v-scrollAnime
+        >
+          <div class="card-img-top mx-auto">
+            <a
+              href="https://linkfree.eddiehub.io/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <img
+                class="img-fluid"
+                src="../assets/img/linkfree.webp"
+                alt="LinkFree"
+              />
+            </a>
+          </div>
+          <div class="card-body">
+            <h5 class="card-title">LINKFREE</h5>
+            <p class="card-text">
+              LinkFree is the Open Source alternative to LinkTree. A platform
+              where people in tech can have a single hub to showcase their
+              content in order to accelerate their career, whilst contributing
+              to an Open Source project and being part of a community that has a
+              say in where the project is going.
+            </p>
+
+            <p class="card-text">
+              <span class="badge badge-danger badge-pill"> Nodejs </span>
+              <span class="badge badge-dark badge-pill"> Nextjs </span>
+              <span class="badge badge-info badge-pill"> Docker </span>
+            </p>
+
+            <div class="card-text row mx-auto">
+              <small class="text-muted float-lg-left text-center">
+                <a
+                  href="https://github.com/EddieHubCommunity/LinkFree"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  class="btn-dark bg-dark-pro text-decoration-none"
+                  v-scrollAnime
+                >
+                  <i class="fab fa-github"> Repository</i>
+                </a></small
+              >
+
+              <small class="text-muted float-right">
+                <a
+                  href="https://linkfree.eddiehub.io"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  class="btn-dark bg-success text-decoration-none"
+                  v-scrollAnime
+                >
+                  View Site <i class="fas fa-external-link-alt"></i> </a
               ></small>
             </div>
           </div>
@@ -100,60 +160,6 @@
                 </a>
               </small>
             </p>
-          </div>
-        </div>
-
-        <div
-          class="card col-lg-6 col-md-6 col-sm-12 mt-4 bg-dark-pro mx-auto"
-          v-scrollAnime
-        >
-          <div class="card-img-top mx-auto">
-            <a
-              href="https://linkfree.eddiehub.io/"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              <img
-                class="img-fluid"
-                src="../assets/img/linkfree.webp"
-                alt="LinkFree"
-              />
-            </a>
-          </div>
-          <div class="card-body">
-            <h5 class="card-title">LINKFREE</h5>
-            <p class="card-text">
-              LinkFree is the Open Source alternative to LinkTree. A platform
-              where people in tech can have a single hub to showcase their
-              content in order to accelerate their career, whilst contributing
-              to an Open Source project and being part of a community that has a
-              say in where the project is going.
-            </p>
-
-            <div class="card-text row mx-auto">
-              <small class="text-muted float-lg-left text-center">
-                <a
-                  href="https://github.com/EddieHubCommunity/LinkFree"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  class="btn-dark bg-dark-pro text-decoration-none"
-                  v-scrollAnime
-                >
-                  <i class="fab fa-github"> Repository</i>
-                </a></small
-              >
-
-              <small class="text-muted float-right">
-                <a
-                  href="https://linkfree.eddiehub.io"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  class="btn-dark bg-success text-decoration-none"
-                  v-scrollAnime
-                >
-                  View Site <i class="fas fa-external-link-alt"></i> </a
-              ></small>
-            </div>
           </div>
         </div>
 
