@@ -116,6 +116,12 @@
       </div>
 
       <div class="col-lg-3 col-md-4 col-sm-6 text-center mt-4" v-scrollAnime>
+        <i class="fab fa-docker text-info skill-icons"></i>
+        <br />
+        <span class="badge badge-info badge-pill"> Docker </span>
+      </div>
+
+      <div class="col-lg-3 col-md-4 col-sm-6 text-center mt-4" v-scrollAnime>
         <i class="fab fa-git-alt text-danger skill-icons"></i>
         <br />
         <span class="badge badge-danger badge-pill"> Git </span>

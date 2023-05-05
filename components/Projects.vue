@@ -10,6 +10,65 @@
         >
           <div class="card-img-top">
             <a
+              href="https://nkowaokwu.com"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <img
+                class="img-fluid"
+                src="../assets/img/nkowaokwu.png"
+                alt="Nkọwaokwu"
+              />
+            </a>
+          </div>
+          <div class="card-body">
+            <h5 class="card-title">Nkọwa okwu</h5>
+            <p class="card-text">
+              <b class="text-success">Nkọwa okwu</b> is a technology company
+              focused on building accessible and robust Igbo language learning
+              tools. It was built on the foundation that we believe Igbo
+              education should be free and easy to access.
+            </p>
+
+            <p class="card-text">
+              <span class="badge badge-danger badge-pill"> Nodejs </span>
+              <span class="badge badge-light badge-pill"> Nextjs </span>
+              <span class="badge badge-light badge-pill"> AWS </span>
+              <span class="badge badge-light badge-pill"> Docker </span>
+            </p>
+            <div class="card-text row">
+              <small class="text-muted float-left">
+                <a
+                  href="https://github.com/davydocsurg/davydocsurg.github.io"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  class="btn-dark bg-dark-pro text-decoration-none"
+                  v-scrollAnime
+                >
+                  <i class="fab fa-github"> Repository</i>
+                </a></small
+              >
+
+              <small class="text-muted float-right">
+                <a
+                  href="https://chibueze.me/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  class="btn-dark bg-success text-decoration-none"
+                  v-scrollAnime
+                >
+                  Visit Site <i class="fas fa-external-link-alt"></i> </a
+              ></small>
+            </div>
+          </div>
+        </div>
+
+        <div
+          class="card col-lg-6 col-md-6 col-sm-12 mt-4 bg-dark-pro mx-auto"
+          v-scrollAnime
+        >
+          <div class="card-img-top">
+            <a
               href="https://onevent.com.ng/"
               target="_blank"
               rel="noopener noreferrer"
@@ -443,6 +502,10 @@ p {
 .btn-light {
   background: #c4c4c4;
   color: #333;
+}
+
+.card-title {
+  text-transform: uppercase !important;
 }
 
 /* .projects {
