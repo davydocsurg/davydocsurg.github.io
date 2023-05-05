@@ -164,12 +164,46 @@
           <i class="fab fa-dev"></i> Dev.to
         </template>
         <a
-          href="https://dev.to/davidchibueze"
+          href="https://dev.to/davydocsurg"
           class="text-dark pops"
           target="_blank"
           rel="noopener noreferrer"
         >
-          https://dev.to/davidchibueze
+          https://dev.to/davydocsurg
+        </a>
+      </b-popover>
+
+      <div v-scrollAnime>
+        <span class="text">
+          <i class="fas fa-globe-africa"></i>
+          <!-- LinkedIn  -->
+          :
+        </span>
+        <a
+          id="showwcase"
+          href="https://www.showwcase.com/davydocsurg/"
+          target="_blank"
+          rel="noopener noreferrer"
+          >@davydocsurg</a
+        >
+      </div>
+      <b-popover
+        target="showwcase"
+        class="text-center"
+        triggers="hover"
+        placement="top"
+        variant="dark"
+      >
+        <template #title class="text-white">
+          <i class="fas fa-globe-africa"></i> Showwcase
+        </template>
+        <a
+          href="https://showwcase.com/davydocsurg"
+          class="text-dark pops"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          https://showwcase.com/davydocsurg
         </a>
       </b-popover>
 

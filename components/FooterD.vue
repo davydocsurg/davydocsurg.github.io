@@ -56,13 +56,13 @@
           <i class="fab fa-twitter foot"></i>
         </a>
         <a
-          href="https://www.facebook.com/davydocsurg"
+          href="https://www.showwcase.com/davydocsurg"
           target="_blank"
           rel="noopener noreferrer"
           class="mr-3"
           v-scrollAnime
         >
-          <i class="fab fa-facebook foot"></i>
+          <i class="fas fa-globe-africa foot"></i>
         </a>
       </div>
     </footer>
