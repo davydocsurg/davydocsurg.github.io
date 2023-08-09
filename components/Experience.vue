@@ -16,7 +16,112 @@
       <li>
         <div class="container row">
           <div class="col-lg-4">
-            <small class="">June, 2022 - Present</small>
+            <small class="">May 2023 - Present</small>
+            <h5 href="" class="text-success">Prachpro</h5>
+            <small class="text-success"> Full Stack Engineer </small>
+            <br />
+            <small class="text-muted">Lagos, Nigeria - Remote</small>
+            <br />
+            <br />
+          </div>
+
+          <div class="col-lg-8">
+            <ul class="list-style-type-none lh-lg">
+              <li>
+                Collaborated closely with the UI/UX designer to enhance the
+                website's user interface, resulting in improved user engagement
+                and a more seamless browsing experience for potential customers.
+              </li>
+
+              <li>
+                Spearheaded the optimization of API endpoints for both web and
+                mobile applications, leading to a significant reduction in
+                response times and increased overall performance.
+              </li>
+
+              <li>
+                Successfully implemented new features and functionalities,
+                including property search filters, interactive map integration,
+                and real-time notifications, resulting in enhanced user
+                satisfaction and retention.
+              </li>
+
+              <li>
+                Played a key role in debugging and resolving critical technical
+                issues, ensuring minimal downtime and smooth operation of the
+                platforms.
+              </li>
+
+              <li>
+                Actively participated in code reviews and provided constructive
+                feedback to fellow developers, promoting code quality and
+                adherence to best practices.
+              </li>
+
+              <li>
+                Demonstrated strong leadership skills while leading small
+                development teams for specific projects, guiding them to
+                successful project completion and meeting critical deadlines.
+              </li>
+
+              <li>
+                Proactively researched and recommended emerging technologies and
+                industry trends, leading to the adoption of modern development
+                tools and methodologies, thereby enhancing team productivity and
+                project efficiency.
+              </li>
+            </ul>
+          </div>
+        </div>
+      </li>
+
+      <li>
+        <div class="container row">
+          <div class="col-lg-4">
+            <small class="">Open Source Contributor</small>
+            <h5 href="" class="text-success">Nkọwaokwu</h5>
+            <small class="text-success">
+              Lead Developer, Igbo API Developer Dashboard
+            </small>
+            <br />
+            <small class="text-muted">New York City, New York - Remote</small>
+            <br />
+            <br />
+          </div>
+
+          <div class="col-lg-8">
+            <ul class="list-style-type-none lh-lg">
+              <li>
+                Led a team of developers in the design and development of the
+                Igbo API Developer Dashboard, a key component of Nkọwaokwu's
+                technology platform for Igbo language learning.
+              </li>
+
+              <li>
+                Wrote the project's professional design document, outlining the
+                technical architecture, features, and user experience of the
+                dashboard.
+              </li>
+
+              <li>
+                Assigned tasks and managed a team of developers, ensuring
+                efficient collaboration, adherence to project timelines, and
+                high-quality deliverables.
+              </li>
+
+              <li>
+                Implemented best practices for code quality, scalability, and
+                maintainability, resulting in a robust and accessible dashboard
+                for developers working with the Igbo language.
+              </li>
+            </ul>
+          </div>
+        </div>
+      </li>
+      <li>
+        <div class="container row">
+          <div class="col-lg-4">
+            <small class="">June, 2022 - June 2023</small>
             <h5 href="" class="text-success">Coopco</h5>
             <small class="text-success">Frontend Engineer</small>
             <br />
@@ -28,37 +133,38 @@
           <div class="col-lg-8">
             <ul class="list-style-type-none lh-lg">
               <li>
-                Developed and maintained Coopco Technology's web applications
-                and websites using HTML, CSS, JavaScript, VueJS, and ReactJS
+                Developed and maintained web applications and websites using
+                HTML, CSS, JavaScript, VueJS, and Nuxtjs, ensuring optimal
+                performance, scalability, and a seamless user experience.
               </li>
 
               <li>
-                Proactively participated in the development process of multiple
-                web applications
+                Collaborated with the design team to implement responsive
+                designs, creating visually appealing and user-friendly
+                interfaces across various devices and screen sizes.
               </li>
 
               <li>
-                Collaborated with the design team to ensure a seamless user
-                experience across all devices and screen sizes
+                Built reusable components and front-end libraries, significantly
+                reducing development time by 20% and promoting code consistency
+                and reusability.
               </li>
 
               <li>
-                Built reusable components and front-end libraries, reducing
-                development time by 20%
+                Implemented performance optimization techniques such as lazy
+                loading, code splitting, and image optimization, resulting in a
+                30% improvement in web page load times.
               </li>
 
               <li>
-                Optimized applications for speed and scalability, utilizing
-                techniques such as lazy loading, code splitting, and image
-                optimization, which reduced web page load time by 30%
+                Leveraged SEO best practices to drive increased website traffic
+                and improve overall engagement...
               </li>
             </ul>
           </div>
         </div>
       </li>
-      <br />
-      <br />
-      <li>
+      <!-- <li>
         <div class="container row">
           <div class="col-lg-4">
             <small class="">August 2022 - December 2022</small>
@@ -70,15 +176,6 @@
             <br />
           </div>
           <div class="col-lg-8">
-            <!-- I worked as a freelance technical writer for Nubela which
-            specializes in data enterprise and software development. During my
-            time there, I was responsible for creating and editing technical
-            blog posts and articles that were used to educate and inform the
-            company's clients and potential clients about the services they
-            offered.
-            <br />
-            My responsibilities included: -->
-
             <ul class="lh-lg">
               <li>
                 Created and edited technical blog posts and articles for Nubela,
@@ -109,7 +206,7 @@
             </ul>
           </div>
         </div>
-      </li>
+      </li> -->
       <br />
       <li>
         <div class="container row">
@@ -124,50 +221,26 @@
             Working with teams of skillful and experienced developers, I:
             <ul class="lh-lg">
               <li>
-                Developed back-end and database infrastructures with over 90%
-                security in collaboration with skillful and experienced
-                development teams.
+                Developed secure and robust back-end and database
+                infrastructures, ensuring more than 90% security compliance.
               </li>
 
               <li>
-                Designed and implemented front-end components based on new and
-                existing methods with a scalability rating of over 4 stars from
-                users
+                Designed and implemented front-end components using scalable and
+                user- friendly methods, earning a consistently high user rating
+                of over 4 stars.
               </li>
 
               <li>
-                Assembled data on integration issues and vulnerabilities,
-                reported findings and provided suggestions for improvement
+                Conducted comprehensive research and analysis on integration
+                issues and vulnerabilities, providing detailed reports and
+                actionable recommendations for improvement.
               </li>
 
               <li>
-                Tested troubleshooting methods, devised innovative solutions
-                with a success rate of over 88%, and documented resolutions for
-                inclusion in a knowledge repository for team support
-              </li>
-
-              <li>
-                Conducted research, designed, and implemented scalable
-                information identification, extraction, analysis, retrieval, and
-                indexing applications
-              </li>
-
-              <li>
-                Simplified the implementation of web applications by placing the
-                application's structure onto the Laravel framework, reducing
-                maintenance and new feature development time by a factor of 100
-              </li>
-
-              <li>
-                Developed core server products in Laravel MVC and SOA service
-                components for over 25 client sites, ensuring 99% compatibility
-                with major browsers on both mobile and desktop platforms
-              </li>
-
-              <li>
-                Created databases utilizing PHP8, PDO, and MySQL that optimized
-                trucking performances, from creating, assigning, and tracking
-                truckloads, increasing customer satisfaction to 85%.
+                Tested and implemented innovative troubleshooting methods with a
+                success rate exceeding 88%, documenting resolutions for team
+                support and knowledge sharing.
               </li>
             </ul>
           </div>
@@ -189,32 +262,17 @@
           <div class="col-lg-8">
             <ul class="list-style-type-none lh-lg">
               <li>
-                Participated proactively in the development process of multiple
-                web applications during an internship at Innovation Growth Hub,
-                Nigeria
+                Proactively participated in the development process of multiple
+                web applications.
               </li>
               <li>
-                Resolved complex issues and conducted professional UI tests to
-                optimize performance
-              </li>
-
-              <li>
-                Conducted research on web development to contribute to projects
+                Resolved complex issues, and performed professional UI tests to
+                optimize performance.
               </li>
 
               <li>
                 Supported several instructors with the planning and organization
-                of the IGHUB Developers and Entrepreneurs Fellowship
-              </li>
-
-              <li>
-                Led group projects, ensuring 98% cooperation and effective
-                teamwork
-              </li>
-
-              <li>
-                Tutored small groups of students focused on specific parts of
-                the fellowship.
+                of the IGHUB Developers and Entrepreneurs Fellowship.
               </li>
             </ul>
           </div>
